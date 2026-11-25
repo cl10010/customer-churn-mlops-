@@ -226,3 +226,7 @@ __marimo__/
 mlruns/
 mlartifacts/
 mlflow.db
+
+# Dataset (chacune le télécharge sur Kaggle)
+data/
+data/
